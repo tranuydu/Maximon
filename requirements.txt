@@ -1,4 +1,4 @@
-psycopg2Flask
+Flask
 Flask-Restful
 Flask-JWT
 Flask-SQLAlchemy
